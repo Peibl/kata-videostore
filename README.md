@@ -22,3 +22,12 @@ a que los programadores desarrollen sus habilidades a base de práctica y repeti
 Es un espacio seguro
 Es un espacio para equivocarse
 Es un espacio para aprender
+
+
+--------------------------------------------------------------------
+
+# TODO ROMAN NUMERAL
+
+//        assertEquals("L", convertNumber(50));
+//        assertEquals("C", convertNumber(100));
+//        assertEquals("C", convertNumber(100));
